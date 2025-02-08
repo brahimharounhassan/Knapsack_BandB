@@ -18,11 +18,11 @@ Here we use the **Branch and Bound** technique to solve this problem efficiently
 3. **Pruning**: If a branch cannot yield a better solution than the one found so far, it is ignored.
 
 ## Mathematical Formulation
-- $`\( n \)`$ : the total number of items
-- $`\( w_i \)`$ : the weight of item $`\( i \)`$
-- $`\( v_i \)`$ : the value of item $`\( i \)`$
-- $`\( W \)`$ : the maximum capacity of the knapsack
-- $`\( x_i \)`$ : a binary decision variable indicating whether item $`\( i \)`$ is selected $`(\( x_i = 1 \))`$ or not $`(\( x_i = 0 \))`$
+- $`( n )`$ : the total number of items
+- $`( w_i )`$ : the weight of item $`( i )`$
+- $`( v_i )`$ : the value of item $`( i )`$
+- $`( W )`$ : the maximum capacity of the knapsack
+- $`( x_i )`$ : a binary decision variable indicating whether item $`( i )`$ is selected $`( x_i = 1 )`$ or not $`( x_i = 0 \))`$
 
 ### **Objective: Maximize the total value**
 
