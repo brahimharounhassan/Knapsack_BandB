@@ -1,0 +1,93 @@
+data;
+
+set OBJETS := obj_1 obj_2 obj_3 obj_4 obj_5 obj_6 obj_7 obj_8 obj_9 obj_10 obj_11 obj_12 obj_13 obj_14 obj_15 obj_16 obj_17 obj_18 obj_19 obj_20 obj_21 obj_22 obj_23 obj_24 obj_25 obj_26 obj_27 obj_28 obj_29 obj_30 obj_31 obj_32 obj_33 obj_34 obj_35 obj_36 obj_37 obj_38 obj_39 obj_40 ;
+
+param poids :=
+	obj_1	185
+	obj_2	175
+	obj_3	197
+	obj_4	165
+	obj_5	164
+	obj_6	132
+	obj_7	157
+	obj_8	190
+	obj_9	125
+	obj_10	143
+	obj_11	175
+	obj_12	155
+	obj_13	149
+	obj_14	189
+	obj_15	104
+	obj_16	194
+	obj_17	191
+	obj_18	178
+	obj_19	104
+	obj_20	157
+	obj_21	133
+	obj_22	153
+	obj_23	188
+	obj_24	125
+	obj_25	155
+	obj_26	139
+	obj_27	122
+	obj_28	116
+	obj_29	124
+	obj_30	122
+	obj_31	151
+	obj_32	176
+	obj_33	148
+	obj_34	149
+	obj_35	106
+	obj_36	193
+	obj_37	158
+	obj_38	147
+	obj_39	130
+	obj_40	167
+;
+
+param valeur :=
+	obj_1	190431
+	obj_2	175551
+	obj_3	198858
+	obj_4	173309
+	obj_5	168961
+	obj_6	133268
+	obj_7	160152
+	obj_8	190158
+	obj_9	134926
+	obj_10	147880
+	obj_11	182221
+	obj_12	162536
+	obj_13	151592
+	obj_14	193103
+	obj_15	106085
+	obj_16	196092
+	obj_17	197795
+	obj_18	183085
+	obj_19	104107
+	obj_20	157918
+	obj_21	139007
+	obj_22	159194
+	obj_23	189388
+	obj_24	133418
+	obj_25	159889
+	obj_26	140272
+	obj_27	122101
+	obj_28	117093
+	obj_29	126746
+	obj_30	123464
+	obj_31	158429
+	obj_32	184100
+	obj_33	157811
+	obj_34	153190
+	obj_35	112211
+	obj_36	196146
+	obj_37	164207
+	obj_38	148057
+	obj_39	132056
+	obj_40	170051
+;
+
+param masse_sac := 2000;
+
+end;

@@ -1,0 +1,53 @@
+data;
+
+set OBJETS := obj_1 obj_2 obj_3 obj_4 obj_5 obj_6 obj_7 obj_8 obj_9 obj_10 obj_11 obj_12 obj_13 obj_14 obj_15 obj_16 obj_17 obj_18 obj_19 obj_20 ;
+
+param poids :=
+	obj_1	132
+	obj_2	165
+	obj_3	145
+	obj_4	198
+	obj_5	156
+	obj_6	152
+	obj_7	110
+	obj_8	144
+	obj_9	123
+	obj_10	115
+	obj_11	199
+	obj_12	134
+	obj_13	117
+	obj_14	182
+	obj_15	111
+	obj_16	154
+	obj_17	105
+	obj_18	169
+	obj_19	128
+	obj_20	156
+;
+
+param valeur :=
+	obj_1	138772
+	obj_2	173636
+	obj_3	148055
+	obj_4	198705
+	obj_5	165087
+	obj_6	152665
+	obj_7	117838
+	obj_8	151242
+	obj_9	123145
+	obj_10	115281
+	obj_11	204756
+	obj_12	134767
+	obj_13	121259
+	obj_14	186944
+	obj_15	111389
+	obj_16	154316
+	obj_17	112132
+	obj_18	177607
+	obj_19	134188
+	obj_20	158942
+;
+
+param masse_sac := 2000;
+
+end;

@@ -1,0 +1,43 @@
+data;
+
+set OBJETS := obj_1 obj_2 obj_3 obj_4 obj_5 obj_6 obj_7 obj_8 obj_9 obj_10 obj_11 obj_12 obj_13 obj_14 obj_15 ;
+
+param poids :=
+	obj_1	124
+	obj_2	156
+	obj_3	138
+	obj_4	143
+	obj_5	231
+	obj_6	214
+	obj_7	98
+	obj_8	178
+	obj_9	205
+	obj_10	189
+	obj_11	163
+	obj_12	112
+	obj_13	201
+	obj_14	302
+	obj_15	222
+;
+
+param valeur :=
+	obj_1	13
+	obj_2	14
+	obj_3	13
+	obj_4	14
+	obj_5	25
+	obj_6	20
+	obj_7	10
+	obj_8	16
+	obj_9	19
+	obj_10	17
+	obj_11	16
+	obj_12	12
+	obj_13	16
+	obj_14	29
+	obj_15	23
+;
+
+param masse_sac := 1000;
+
+end;
